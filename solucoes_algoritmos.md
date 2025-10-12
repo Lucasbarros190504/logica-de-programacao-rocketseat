@@ -123,6 +123,35 @@ Este arquivo contém as soluções dos exercícios de Descrição Narrativa e Ps
 9. Ao final, aplique o que aprendeu ou salve o vídeo para rever depois.
 
 ---
+---
+
+## 3. Fluxograma
+
+Aqui estão as representações visuais dos algoritmos propostos.
+
+### 1. Calcular o dobro de um número
+![Fluxograma 1](fluxograma_1_dobro.png)
+
+### 2. Verificar se o número é menor que 10
+![Fluxograma 2](fluxograma_2_menor_10.png)
+
+### 3. Contar até 5
+![Fluxograma 3](fluxograma_3.jpg) 
+
+---
+
+## 2. Pseudocódigo (Estrutura de Programação)
+... (deixe o restante do seu pseudocódigo aqui)
+
+
+
+
+
+
+
+
+
+
 
 ## 2. Pseudocódigo (Estrutura de Programação)
 
