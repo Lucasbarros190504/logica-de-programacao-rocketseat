@@ -123,7 +123,6 @@ Este arquivo contém as soluções dos exercícios de Descrição Narrativa e Ps
 9. Ao final, aplique o que aprendeu ou salve o vídeo para rever depois.
 
 ---
----
 
 ## 3. Fluxograma
 
@@ -139,19 +138,6 @@ Aqui estão as representações visuais dos algoritmos propostos.
 ![Fluxograma 3](fluxograma_3.jpg) 
 
 ---
-
-## 2. Pseudocódigo (Estrutura de Programação)
-... (deixe o restante do seu pseudocódigo aqui)
-
-
-
-
-
-
-
-
-
-
 
 ## 2. Pseudocódigo (Estrutura de Programação)
 
