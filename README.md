@@ -7,8 +7,4 @@ Este repositório contém os exercícios práticos resolvidos do curso de Lógic
 ## Conteúdo
 
 * [Soluções dos Conectivos Lógicos](solucoes_conectivos_logicos.md)
-
-* ## Conteúdo
-
-* [Soluções dos Conectivos Lógicos](solucoes_conectivos_logicos.md)
 * **[Soluções dos Algoritmos (Descrições e Pseudocódigo)](solucoes_algoritmos.md)**
