@@ -129,13 +129,13 @@ Este arquivo contém as soluções dos exercícios de Descrição Narrativa e Ps
 Aqui estão as representações visuais dos algoritmos propostos.
 
 ### 1. Calcular o dobro de um número
-![Fluxograma 1](fluxograma_1_dobro.png)
+![Fluxograma 1](fluxograma_1_dobro.png.png)
 
 ### 2. Verificar se o número é menor que 10
-![Fluxograma 2](fluxograma_2_menor_10.png)
+![Fluxograma 2](fluxograma_2_menor_10.png.png)
 
 ### 3. Contar até 5
-![Fluxograma 3](fluxograma_3.jpg) 
+![Fluxograma 3](fluxograma_3.png) 
 
 ---
 
