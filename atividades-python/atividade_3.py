@@ -1,15 +1,23 @@
-print('Olá!vamos criar uma historia?')
-input('digite ENTER para começar')
+print('Olá! vamos criar uma historia?')
+input('Digite ENTER para começar..')
 
-resposta_fruta  = input ('Vamos lá!\nPara criar essa historia eu preciso que vc me fale uma fruta. ')
-resposta_animal = input ('OK! Agora me diga um animal. ')
-resposta_nome   = input ('Muito bem! agora me fale um nome proprio. ')
-resposta_cor    = input ('Agora me diz uma cor. ')
-resposta_cor2   = input ('Legal! me diga uma segunda cor. ')
-resposta_nome2  = input ('POR ULTIMOO... me diga outro nome! ')
-resposta_nome_animal = input ('AHH,QUASE ESQUECI! \nme diga um nome para seu animal.') 
+resposta_fruta  = input ('Vamos lá!\nMe diga uma fruta: ')
+resposta_nome  = input ('Agora me diga um nome próprio: ')
+resposta_cor   = input ('Agora me diga uma cor: ')
+resposta_verbo = input ('Agora me diga um verbo: ')
+resposta_nome2 = input ('Por ultimo, me diga outro nome: ')
+resposta_nome_animal = input ('Ah,quase esqueci! \nme diga um nome para seu animal:') 
+
 print()
 input('aperte ENTER para ver a historia criada')
-print(f'Durante uma brincadeira {resposta_nome} estava querendo muito um(a) {resposta_fruta}. {resposta_nome} também estava pensando em uma fruta com a cor {resposta_cor} ou da cor {resposta_cor2},ele estava em duvida..mas no final o amigo(a) {resposta_nome2}..realizou o seu desejo e lhe deu uma {resposta_fruta} e ele dividiu a {resposta_fruta} com seu animal de estimação.. o famoso {resposta_nome_animal}!!' )
+print()
+
+print(
+  f'Durante uma brincadeira, {resposta_nome} estava querendo muito um(a) {resposta_fruta}.\n'
+  f'Ele(a) começou a {resposta_verbo} sem parar, pensando em uma fruta da cor {resposta_cor}. \n' 
+  f'No final, o(a) amigo(a) {resposta_nome2} realizou o seu desejo \n' 
+  f'Eles dividiram a {resposta_fruta} com seu animal de estimação, o famoso {resposta_nome_animal}!'
+    )
+
 print()
 print('ESPERO QUE TENHA GOSTADO!!\nATÉ MAIS!!')
